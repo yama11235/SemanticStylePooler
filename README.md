@@ -10,7 +10,7 @@ The script `train_pooler.sh` serves as the primary entry point. It contains the 
 
 ## Datasets
 
-The following datasets are used in our experiments. All datasets are publicly available. The "Length" column indicates the average number of words after preprocessing.
+The following datasets are used in our experiments. All datasets are publicly available. 
 
 ### Dataset Meta-information
 
